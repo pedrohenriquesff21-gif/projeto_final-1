@@ -10,9 +10,9 @@ Vamos a mais uma conquista na sua formação profissional !
 Rafaela; Eu tenho 16 anos, estou concluindo o ensino funtalmental e me preparando para o ensino médio. Tenho facilidade com CSS, escrita e sou uma pessoa criativa além de trabalhar bem em equipe. Busco aprender mais na área de tecnologia e crescer em projetos que coloque em cena minha criatividade.
 Maria Julia; 
 Maria Eduarda; 
-Maria Clara; Eu tenho 18 anos, estou terminando o ensino médio e me preparando para o mercado de trabalho. Tenho mais facilidade em comunicação com pessoas, tenho objetivo de aprender mais sobre a tecnologia que tem consequencia com a profissão que eu quero realizar.
+Maria Clara;
 Ana Lucy;
-Pedro;
+Pedro; Eu tenho 16 anos, estou no segundo ano de ensino medio, estou cursando webDesign na vocação e estou na fase de conclusão dos 4 meses de curso.estou fazendo o curso com a expectativa de entrar para o mercado de trabalho.
 
 Preciso que faça uma auto biografia sobre ti, pensando com uma empresa pode contratar você.
 * **Lembre** do seu Portifolio e como suas hard e soft skill's pode ajudar e Lembre-se do Hikigai!
